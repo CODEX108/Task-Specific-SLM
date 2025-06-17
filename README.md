@@ -24,7 +24,7 @@ This project explores the training of a small transformer-based language model s
 
 ---
 
-##Experimental Configurations
+## Experimental Configurations
 
 ### 🧪 Case 1: Baseline Model (5000 Iterations)
 - **Batch Size**: 16  
